@@ -1,0 +1,98 @@
+<html>
+<title>Lando X Jojo</title>
+<head style="background-color:powderblue;">
+<style>
+p {
+ background-color:red;
+ border-width:7px;
+ border-style:inset;
+ padding:10px;
+ text-align:center;
+ color:white;
+ font-size:30;
+}
+
+#p02 {
+    background-color:black;
+    border-width:5px;
+    border-style:solid;
+    border-color:red;
+    text-align: center;
+    color:white;
+    padding:10px;
+}
+
+ul {
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    text-align:center;
+    /*position:fixed;*/
+    overflow:hidden;
+}
+li a {
+  display: block;
+  width: 60px;
+  background-color:black;
+  text-align:center;
+  float:left;
+  border-style:solid;
+  border-color:gray;
+  padding:16px 12px;
+  display:inline;
+  color:white;
+}
+
+
+li a:hover {
+    background-color:#ddd;
+    color:black;
+}
+.active {
+    background-color:green;
+    color:black;
+}
+.sectionone {
+    background-color:gray;
+    padding:30px;
+}
+.imageone {
+  
+  background-color: dodgerblue;
+  border-style:solid;
+  padding:17px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+#p03
+</style>
+<ul>
+    <li><a href="about.blank">Home</a></li>
+    <li><a href="about.blank">About</a></li>
+    <li><a href="about.blank">News</a></li>
+    <li><a href="about.blank">Contact</a></li>
+    <li><a href="about.blank">Randomz</a></li>
+    <li style="float:right"><a href="about.blank">Guest</a></li>
+</ul>
+</head>
+<body style="background-color:powderblue;">
+<br>
+<br>
+<p>Lando X Jojo</p>
+<p id="p02">Welcome to Lando X Jojo, the ultimate website for all gamers alike!!!</p>
+<div class="sectionone">
+    <p id="#p03">"First Note - All Gamers, Welcome!"</p>
+    <img src="https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fdavidthier%2Ffiles%2F2019%2F09%2F960x0-3.jpg" class=imageone alt="Trulli">
+    <p id="#p04">All gamers are welcome here, but only the worst survive! Make sure that you lose when you one v one us, and you will gain a free subscription until you beat us!</p>
+</div>
+<br>
+<br>
+<div class="sectionone">
+    <p id="#p03">"Challenge - Building Blocks"</p>
+    <img src="https://cdn.mos.cms.futurecdn.net/gGcYWdQyfXcK2hMLCpmFH4.jpg" class=imageone alt="Trulli">
+    <p id="#p04">Enter a raffle drawing and show off your skills in our newest Challenge, Building Blocks! Winners recieve a shoutout!</p>
+</div>
+</body>
+</html>
